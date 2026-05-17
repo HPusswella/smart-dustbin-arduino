@@ -52,8 +52,8 @@ The Arduino code is available here:
 ##  Full Report
 [Download PDF Report](docs/Smart_Dustbin_Final_Report.pdf)
 
-## 📜 License
+##  License
 This project is licensed under the MIT License – see the [LICENSE](LICENSE) file.
 
-## 👨‍💻 Author
+##  Author
 **HPusswella** – [GitHub Profile](https://github.com/HPusswella)
